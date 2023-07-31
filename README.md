@@ -19,7 +19,7 @@ La consigna es la siguiente:
 
 ## Solución
 A continuación se presenta un video con la solución de la consigna y su respectivo Jupyter NoteBook:
-- [Video]()
+- [Video](https://drive.google.com/file/d/1ydigcCOsXtsxEL5c5ZKChceuFqpAT9US/view?usp=sharing)
 - [Jupyter NoteBook resuelto](https://github.com/Arevalojj2020/Clase_Piloto_Python/blob/main/Clase_Piloto_Python_Resuelto.ipynb)
 
 ## Herramientas Utilizadas
